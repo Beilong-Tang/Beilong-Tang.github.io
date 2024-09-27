@@ -6,4 +6,4 @@ nav: true
 nav_order: 3
 ---
 
-My CV can be accessed [here](https://beilong-tang.github.io/assets/pdf/example_pdf.pdf).
+My CV can be accessed at [here](https://beilong-tang.github.io/assets/pdf/Beilong_Tang_CV.pdf).
