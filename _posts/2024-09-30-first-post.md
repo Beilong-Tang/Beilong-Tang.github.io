@@ -5,7 +5,6 @@ date: 2024-09-30 10:10:00
 description: First post
 tags: general
 categories: general
-tabs: true
 ---
 
 I will try to post something fun here. 
