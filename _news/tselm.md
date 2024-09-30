@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I submitted my first first-author paper [TSELM](https://arxiv.org/abs/2409.07841) to ICASSP 2025  :sparkles: 
+I submitted my first first-author paper [TSELM: Target Speaker Extraction using Discrete Tokens and Language Models](https://arxiv.org/abs/2409.07841) to ICASSP 2025  :sparkles: 
