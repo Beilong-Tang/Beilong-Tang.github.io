@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Beilong Tang, a senior Undergraduate student from [Duke Kunshan University](https://www.dukekunshan.edu.cn/). My major is Computer Science. I'm current doing research on using Large Language Models to conduct Speech Separation under the supervision of Professor Li Ming. 
+I'm Beilong Tang, a senior Undergraduate student from [Duke Kunshan University](https://www.dukekunshan.edu.cn/). My major is Computer Science. I'm current doing research on using Large Language Models to conduct Speech Separation under the supervision of [Prof. Ming Li](https://scholar.google.com/citations?user=C_JTsqgAAAAJ). 
 
 My research interest are Signal Processing, Deep Learning, Federated Learning, IoT. I'm currently looking for PhD Positions related to these fields. 
 
