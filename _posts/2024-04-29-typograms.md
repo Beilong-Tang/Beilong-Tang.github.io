@@ -10,6 +10,8 @@ typograms: true
 
 This is an example post with some [typograms](https://github.com/google/typograms/) code.
 
+Testing 
+
 ````markdown
 ```typograms
 +----+

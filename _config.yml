@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Welcome! # blog_name will be displayed in your blog page
-blog_description: I will post some random stuff about coding, math, life here from time to time. 
+blog_description: Welcome to my blog! I will post some random stuff about coding, math, etc. here.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
