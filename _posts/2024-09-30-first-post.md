@@ -10,4 +10,4 @@ tabs: true
 
 I will try to post something fun here. 
 
-I do have a post about techniqual details like pytorch, linux etc. at [here](https://beilong-tang.github.io/technical_blog/) if you are interested in.
+I do have a post about technical details like pytorch, linux etc. at [here](https://beilong-tang.github.io/technical_blog/) if you are interested in.
