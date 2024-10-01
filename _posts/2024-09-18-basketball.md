@@ -4,7 +4,7 @@ title: Play with former National Basketball Player - Kyranbek Makan
 date: 2024-09-14 16:00:00
 description: It is honored to play with former Chinese National Basketball Player - Kyranbek Makan
 tags: sports
-categories: sports
+categories: sports comments
 giscus_comments: true
 related_posts: false
 ---

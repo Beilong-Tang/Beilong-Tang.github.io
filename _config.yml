@@ -150,7 +150,7 @@ related_blog_posts:
 giscus:
   repo: # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
-  category: Comments # name of the category under which discussions will be created
+  category: comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title # identify discussions by post title
   strict: 1 # use strict identification mode
@@ -310,7 +310,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["general", "sports"] # these tags will be displayed on the front page of your blog
-display_categories:  # these categories will be displayed on the front page of your blog
+display_categories: ["comments"]  # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
