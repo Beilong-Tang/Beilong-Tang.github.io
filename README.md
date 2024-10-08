@@ -1,5 +1,10 @@
 # al-folio
 
+To run it locally, do 
+```shell
+bundle exec jekyll serve --lsi
+```
+
 <div align="center">
 
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
