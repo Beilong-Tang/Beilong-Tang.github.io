@@ -24,3 +24,4 @@ I'm currently doing research on using Large Language Models to conduct Speech Se
 
 My research interests are in Signal Processing, Deep Learning, Federated Learning, IoT. I'm currently looking for PhD Positions related to these fields. 
 
+_For technical blog, please refer [here](https://beilong-tang.github.io/technical_blog/)._
