@@ -22,6 +22,6 @@ I'm Beilong Tang, a senior Undergraduate student from [Duke Kunshan University](
 
 I'm currently doing research on using Large Language Models to conduct Speech Separation under the supervision of [Prof. Ming Li](https://scholar.google.com/citations?user=C_JTsqgAAAAJ). Previously, I did research related to Federated Learning under the supervision of [Prof. Bing Luo](https://luobing1008.github.io/).
 
-My research interests are in Signal Processing, Deep Learning, Federated Learning, IoT. I'm currently looking for PhD Positions related to these fields. 
+My research interests are in Deep Learning, Signal Processing, Federated Learning, IoT. I'm currently looking for PhD Positions related to these fields. 
 
 _For technical blog, please refer [here](https://beilong-tang.github.io/technical_blog/)._
