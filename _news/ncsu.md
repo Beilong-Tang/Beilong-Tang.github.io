@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I have accepted my offer to pursue a PhD in ECE at NCSU under the guidance of Dr. Hamid Krim! :tada: A new life chapter is about to begin!
+:tada: I have accepted my offer to pursue a PhD in ECE at NCSU under the guidance of Dr. Hamid Krim! A new life chapter is about to begin!
 
 
 
