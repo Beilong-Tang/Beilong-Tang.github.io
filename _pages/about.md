@@ -18,10 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Beilong Tang, a senior Undergraduate student from [Duke Kunshan University](https://www.dukekunshan.edu.cn/), majoring in Applied Mathematics and Computational Sciences/Computer Science. I have a strong background in machine learning, computer science, programming, and math. 
+I am Beilong Tang, a senior Undergraduate student from [Duke Kunshan University](https://www.dukekunshan.edu.cn/), majoring in Applied Mathematics and Computational Sciences/Computer Science. I have a strong background in machine learning, computer science, programming, and math. 
 
-I'm currently doing research on using Large Language Models to conduct Speech Separation under the supervision of [Prof. Ming Li](https://scholar.google.com/citations?user=C_JTsqgAAAAJ). Previously, I did research related to Federated Learning under the supervision of [Prof. Bing Luo](https://luobing1008.github.io/).
+I'm currently doing research on using Large Language Models to conduct Target Speaker Extraction under the supervision of [Prof. Ming Li](https://scholar.google.com/citations?user=C_JTsqgAAAAJ). Previously, I did research related to Federated Learning under the supervision of [Prof. Bing Luo](https://luobing1008.github.io/).
 
-My research interests are in Deep Learning, Signal Processing, Federated Learning, IoT. I'm currently looking for PhD Positions related to these fields. 
+I will study Ph.D. of NCSU under the supervision of [Dr. Hamid Krim](https://ece.ncsu.edu/people/ahk/).
+
+My research interests are in Deep Learning, Statistical Machine Learning, Signal Processing.
 
 _For technical blog, please refer [here](https://beilong-tang.github.io/technical_blog/)._
