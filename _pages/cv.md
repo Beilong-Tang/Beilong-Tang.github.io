@@ -8,4 +8,4 @@ nav_order: 3
 
 My CV can be accessed at [here](https://beilong-tang.github.io/assets/pdf/Beilong_Tang_CV.pdf).
 
-_Last update: __Dec 13th, 2024__._ 
+_Last update: __April 13th, 2025__._ 
