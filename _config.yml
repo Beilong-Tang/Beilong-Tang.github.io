@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Welcome! # blog_name will be displayed in your blog page
-blog_description: Welcome to my blog! I will post some random stuff about coding, math, etc. here.
+blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -309,8 +309,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["python", "notes"] # these tags will be displayed on the front page of your blog
-display_categories: ["coding", "sports", "general"]  # these categories will be displayed on the front page of your blog
+display_tags: [] # these tags will be displayed on the front page of your blog
+display_categories: ["coding", "life", "conference"]  # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

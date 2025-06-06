@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Play with former National Basketball Player - Kyranbek Makan
+title: Play basketball with Kyranbek Makan
 date: 2024-09-14 16:00:00
-description: It is honored to play with former Chinese National Basketball Player - Kyranbek Makan
-tags: sports
-categories: sports comments
+description: Play basketball with Kyranbek Makan
+tags:
+categories: life
 giscus_comments: true
 related_posts: false
 ---
 
-Kyranbek Makan, a former Chinese National Basketball player, visited our Campus! It is a great honor to play with him!
-
-He is really a nice guy, and I've learnt a lot from him.
+My photos for playing with Kyranbek Makan.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

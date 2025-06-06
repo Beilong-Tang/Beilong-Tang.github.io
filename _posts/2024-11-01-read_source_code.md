@@ -3,7 +3,7 @@ layout: post
 title: Read source code
 date: 2024-11-01 13:00:00
 description: 
-tags: python
+tags:
 categories: coding
 featured: true
 giscus_comments: true
