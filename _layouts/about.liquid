@@ -48,6 +48,15 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
+      </h2>
+      {% include selected_papers.liquid %}
+    {% endif %}
+
+
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
@@ -56,13 +65,14 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
+    <!-- Latest lives -->
+    {% if site.latest_life.enabled %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
+        <a href="{{ '/life/' | relative_url }}" style="color: inherit">My Life</a>
       </h2>
-      {% include selected_papers.liquid %}
+      {% include latest_life.liquid %}
     {% endif %}
+
 
     <!-- Social -->
     {% if page.social %}
