@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: I am honored to receive the Undergraduate _Graduation with Distinction_ award from DKU.
+:tada: I am honored to receive the Undergraduate _Signature Work with Distinction_ award and _magna cum laude_ award from DKU.

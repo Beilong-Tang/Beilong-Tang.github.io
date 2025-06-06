@@ -3,7 +3,7 @@ layout: page
 title: Life
 permalink: /life/
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 {% include life.liquid %}
