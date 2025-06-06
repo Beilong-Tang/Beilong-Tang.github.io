@@ -16,7 +16,7 @@ layout: default
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}", style="width:25%">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -37,7 +37,7 @@ layout: default
         {% endif %}
         {% if page.social %}
           <div class="social">
-            <div class="contact-icons" style="font-size: 3rem">{% include social.liquid %}</div>
+            <div class="contact-icons" style="font-size: 2.5rem">{% include social.liquid %}</div>
             <div class="contact-note">{{ site.contact_note }}</div>
           </div>
         {% endif %}
