@@ -300,7 +300,7 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ["robots.txt", "assets/js/search/*.js", "assets/js/search/newssearch.js"]
+  exclude: ["robots.txt", "assets/js/search/*.js",]
   uglifier_args:
     harmony: true
 
