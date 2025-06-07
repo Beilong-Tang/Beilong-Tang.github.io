@@ -21,6 +21,12 @@ pagination:
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
+
+<h1 class='post-title'>Blog</h1>
+<p class='post-description'></p>
+
+{% include news_search.liquid %}
+
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <!-- <div class="header-bar">
