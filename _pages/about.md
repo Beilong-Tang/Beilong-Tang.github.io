@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Beilong Tang, an incoming Ph.D. student of ECE at [North Carolina State University (NCSU)](https://ece.ncsu.edu/) under the supervision of [Dr. Hamid Krim](https://ece.ncsu.edu/people/ahk/) _(Special thanks to [Dr. Vahid Tarokh](https://people.duke.edu/~vt45/) for his generous recommendation!)_. I will focus on diffusion models and other generative models. 
+I am Beilong Tang, an incoming Ph.D. student of ECE at [North Carolina State University (NCSU)](https://ece.ncsu.edu/) under the supervision of [Dr. Hamid Krim](https://ece.ncsu.edu/people/ahk/) _(Really appreciate [Dr. Vahid Tarokh](https://people.duke.edu/~vt45/) for his generous recommendation!)_. I will focus on diffusion models and other generative models. 
 
 I graduated from [Duke Kunshan University](https://www.dukekunshan.edu.cn/) May 2025 with _Signature Work with Distinction_ award and _magna cum laude_ award, majoring in Applied Mathematics and Computational Sciences/Computer Science. For my undergraduate research, I was fortunate to be advised by [Dr. Ming Li](https://sites.duke.edu/dkusmiip/) on using language models to conduct Target Speaker Extraction. Before that, I did research related to Federated Learning under the supervision of [Dr. Bing Luo](https://luobing1008.github.io/).
 
