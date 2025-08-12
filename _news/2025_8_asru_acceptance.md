@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: :page_facing_up: Two of my first-author papers [LauraTSE](https://beilong-tang.github.io/lauraTSE.demo/) and SEF-MK got accepted by __2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)__.
+:tada: :page_facing_up: Two of my first-author papers [LauraTSE](https://beilong-tang.github.io/lauraTSE.demo/) and [SEF-MK](https://arxiv.org/abs/2508.07086) got accepted by __2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)__.
