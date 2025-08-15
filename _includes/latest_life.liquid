@@ -8,7 +8,7 @@
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign latest_posts = site.life %}
+        {% assign latest_posts = site.life | reverse %}
         {% if site.latest_life.limit %}
           {% assign latest_posts_limit = site.latest_life.limit %}
         {% else %}
