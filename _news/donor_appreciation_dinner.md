@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm very honored to speak on behalf of DKU students at the Donor Appreciation Dinner. 
+I am very honored to speak on behalf of DKU students at the Donor Appreciation Dinner. 
