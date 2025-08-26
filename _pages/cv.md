@@ -17,5 +17,5 @@ Below is my CV. It can also be accessed at [here](https://beilong-tang.github.io
   </p>
 </object>
 
-_Last update: __June 13th, 2025__._ 
+_Last update: __August 26th, 2025__._ 
 
