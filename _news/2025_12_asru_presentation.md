@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-12-8 07:59:00-0400
+date: 2025-12-6 07:59:00-0400
 title: ASRU 2025 Paper Presentation 
 inline: false
 related_posts: false

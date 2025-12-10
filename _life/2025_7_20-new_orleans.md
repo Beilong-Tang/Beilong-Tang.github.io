@@ -2,7 +2,7 @@
 layout: post
 title: Travel in New Orleans
 date: 2025-07-20 16:00:00
-description: Play basketball with Kyranbek Makan
+description: Travel in New Orleans
 giscus_comments: true
 related_posts: false
 ---
