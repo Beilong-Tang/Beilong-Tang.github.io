@@ -16,6 +16,11 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+service:
+  - "Reviewer: ICASSP 2027"
+  - "Reviewer: ICME 2026"
+  - "Reviewer: ICME 2025"
 ---
 
 I am Beilong Tang, a second-year Ph.D. student of ECE at [North Carolina State University (NCSU)](https://ece.ncsu.edu/) under the supervision of [Dr. Hamid Krim](https://ece.ncsu.edu/people/ahk/) _(I want to express my sincere appreciation to [Dr. Vahid Tarokh](https://people.duke.edu/~vt45/) for his generous recommendation!)_. I am currently working on diffusion models using manifold information.
@@ -24,5 +29,3 @@ I graduated from [Duke Kunshan University](https://www.dukekunshan.edu.cn/) May 
 
 
 My research interests are in Deep Learning, Speech Processing, and Statistical Machine Learning.
-
-<!-- _For technical blog, please refer [here](https://beilong-tang.github.io/technical_blog/)._ -->
